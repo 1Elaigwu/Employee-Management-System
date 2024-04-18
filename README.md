@@ -39,7 +39,7 @@ To set up the employee management system locally:
 
 1. Clone this repository: https://github.com/1Elaigwu/employee-management-system.git
 
-2. Execute the SQL file (create_tables/sql) to create the necessary tables in your database system.
+2. Execute the SQL file (sql/create_tables.sql) to create the necessary tables in your database system.
 
 ## Sample Queries
 You can use the provided SQL queries (sql/sample_queries.sql) to perform various operations on the employee management system:
