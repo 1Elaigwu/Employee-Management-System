@@ -3,7 +3,22 @@
 ## Introduction
 
 The Employee Management System is a comprehensive application designed to streamline employee data management and facilitate HR processes within organizations. It provides a centralized
-platform for managing employee details, training records, recruitment activities, and employee engagement surveys.
+platform for managing employee details, training records, recruitment activities, and employee engagement surveys. The dataset used for this project was obtained from Kaggle and consists of CSV files representing different aspects of employee management.
+
+## Data Loading Process
+
+- **Data Source**: The dataset was sourced from Kaggle: [Employee Management Dataset][(https://www.kaggle.com/example/employee-management-dataset](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)).
+- **Data Description**: The dataset includes four CSV files:
+  - `employees.csv`: Employee data
+  - `training.csv`: Training and development records
+  - `recruitment.csv`: Recruitment activity records
+  - `engagement_survey.csv`: Employee engagement survey data
+
+## Loading Data into SSMS
+
+- **Python Script**: A Python script was used in a Jupyter Notebook environment to load the CSV files into SQL Server.
+- **Jupyter Notebook**: The data loading script was executed in a Jupyter Notebook.
+- **SSMS Connection**: The script connects to SQL Server using SQLAlchemy.
 
 ## Key Features
 
