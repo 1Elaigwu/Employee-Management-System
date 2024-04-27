@@ -44,10 +44,10 @@ To set up the employee management system locally:
 ## Sample Queries
 You can use the provided SQL queries (sql/sample_queries.sql) to perform various operations on the employee management system:
 
-- **Retrieve employee details.
-- **Track training history for employees.
-- **Manage recruitment activities.
-- **Analyze employee engagement survey results.
+- **Retrieve employee details**.
+- **Track training history for employees**.
+- **Manage recruitment activities**.
+- **Analyze employee engagement survey results**.
 
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
